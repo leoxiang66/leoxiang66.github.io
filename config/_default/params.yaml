@@ -75,17 +75,17 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'leoxiang66/giscus-discussion'
+      repo_id: 'R_kgDOIO1qXw'
+      category: 'General'
+      category_id: 'DIC_kwDOIO1qX84CSA81'
   search:
     provider: wowchemy
     algolia:
