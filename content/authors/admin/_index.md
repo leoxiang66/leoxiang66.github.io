@@ -4,10 +4,10 @@ role: M.Sc. Informatics
 avatar_filename: avatar.jpeg
 bio: Keep going and never give up!
 interests:
-  - machine learning
-  - deep learning
-  - natural language processing
-  - conversational AI
+  - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
+  - Conversational AI
 social:
   - icon: envelope
     icon_pack: fas
