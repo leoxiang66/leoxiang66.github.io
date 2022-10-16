@@ -78,11 +78,11 @@ cascade:
   # Configure blog posts
   - _target:
       path: /post/**
-    pager: true
-    editable: true
+    pager: false
+    editable: false
     reading_time: true
     commentable: true
-    show_related: true
+    show_related: false
     show_breadcrumb: true
     share: true
     header:
@@ -90,11 +90,11 @@ cascade:
         enable: false
   - _target:
       path: /project/**
-    pager: true
-    editable: true
+    pager: false
+    editable: false
     reading_time: true
     commentable: true
-    show_related: true
+    show_related: false
     show_breadcrumb: true
     share: true
     header:
