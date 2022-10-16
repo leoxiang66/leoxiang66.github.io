@@ -1,5 +1,6 @@
 ---
 title: Knowledge-based QA for Diagnosis
+subtitle: An QA system for diagnosis, based on knowledge graph.
 date: 2022-10-16T12:54:56.012Z
 draft: false
 featured: false
@@ -12,8 +13,11 @@ links:
     name: GitHub
     icon_pack: fab
     icon: github
+  - url: http://xiangtao.cool/kbqa_diagnosis
+    name: Demo
+    icon_pack: null
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
