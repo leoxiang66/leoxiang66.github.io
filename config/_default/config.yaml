@@ -77,9 +77,8 @@ minify:
 cascade:
   # Configure blog posts
   - _target:
-      path:
-        - /post/**
-        - /project/**
+      path: /post/**
+      path: /project/**
     pager: true
     editable: true
     reading_time: true
