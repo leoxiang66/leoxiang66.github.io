@@ -1,6 +1,6 @@
 ---
 title: Conversation AI Workshop
-date: 2022-10-16T13:22:36.522Z
+date: 2022-7-16T13:22:36.522Z
 summary: A﻿ Uni project at TUM.
 draft: false
 featured: false

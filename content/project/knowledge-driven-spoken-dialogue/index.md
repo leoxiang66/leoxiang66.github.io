@@ -1,6 +1,6 @@
 ---
 title: Knowledge-driven Spoken Dialogue
-date: 2022-10-16T13:10:22.369Z
+date: 2022-8-16T13:10:22.369Z
 summary: A﻿ dialogue system that can conduct a conversation using information
   from the provided knowledge graph.
 draft: false

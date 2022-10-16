@@ -1,6 +1,6 @@
 ---
 title: KOOK Chatbots
-date: 2022-10-16T13:05:50.373Z
+date: 2022-8-16T13:05:50.373Z
 summary: Chit-chat chatbots on KOOK platforms
 draft: false
 featured: false
