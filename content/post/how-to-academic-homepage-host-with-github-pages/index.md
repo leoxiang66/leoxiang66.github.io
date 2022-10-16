@@ -1,6 +1,8 @@
 ---
 title: "How to: Academic homepage host with Github Pages"
 date: 2022-10-16T14:24:51.484Z
+summary: A﻿ tutorial on how to build an academic homepage easily with GitHub
+  Actions and Github Pages.
 draft: false
 featured: false
 authors:
