@@ -1,6 +1,6 @@
 ---
 title: Knowledge-based QA for Diagnosis
-subtitle: An QA system for diagnosis, based on knowledge graph.
+subtitle: ""
 date: 2022-10-16T12:54:56.012Z
 draft: false
 featured: false
@@ -21,3 +21,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+An QA system for diagnosis, based on knowledge graph.
