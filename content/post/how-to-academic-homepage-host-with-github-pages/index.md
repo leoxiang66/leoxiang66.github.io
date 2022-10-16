@@ -14,7 +14,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-1. clone a template repo, rename the repo as `<USERNAME>.github.io`
+1. clone a template repo, rename the repo as `<USERNAME>.github.io` [template](https://wowchemy.com/zh/templates/)
 2. modify `baseURL` in `config/_default/config.yaml` to `'https://<USERNAME>.github.io/'`
 3. build the page using **hugo github action**
     - go to `settings` > `pages` > 
