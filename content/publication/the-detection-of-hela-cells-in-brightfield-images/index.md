@@ -29,4 +29,14 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-10-16T13:47:23.944Z
+
+
+# url_pdf: ''
+url_code: 'https://github.com/leoxiang66/The-Detection-of-Hela-Cells-in-Brightfield-Images'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 ---
