@@ -30,7 +30,7 @@ content:
     - name: QA
       tag: Question Answering
     - name: Dialogue
-      tag: Conversational AI
+      tag: Dialogue
     # - name: Other
     #   tag: Demo
 
