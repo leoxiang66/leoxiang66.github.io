@@ -7,6 +7,7 @@ featured: false
 tags:
   - Conversational AI
   - Dialogflow
+  - Question Answering
 links:
   - url: https://github.com/JohannesGetzner/conversational-ai-workshop-history-agent
     name: GitHub
