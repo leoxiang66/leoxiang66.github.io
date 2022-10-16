@@ -14,7 +14,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: https://camo.githubusercontent.com/325d47a224b2633b84c4853780c1592ceca8c19f4e975f185bb71a1af9734622/68747470733a2f2f692e696d6775722e636f6d2f7057416e724c562e706e67
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
