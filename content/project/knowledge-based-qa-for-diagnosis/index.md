@@ -8,7 +8,7 @@ featured: false
 tags:
   - NLP
   - Knowledge Graph
-  - Question Answering System
+  - Question Answering
 links:
   - url: https://github.com/NLP-Guild/knowledge-based-QA-for-diagnosis
     name: GitHub
