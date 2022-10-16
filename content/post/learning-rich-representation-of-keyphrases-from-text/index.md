@@ -6,9 +6,9 @@ featured: false
 authors:
   - admin
 tags:
-  - nlp;deeplearning
+  - NLP
 categories:
-  - paper-reading
+  - PaperReading
 image:
   filename: featured
   focal_point: Smart
