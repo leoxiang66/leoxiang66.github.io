@@ -2,8 +2,7 @@
 title: Tao Xiang 向涛
 role: M.Sc. Informatics
 avatar_filename: avatar.jpeg
-bio: My research interests include machine learning, deep learning, natural
-  language processing and conversational AI.
+bio: Keep going and never give up!
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -20,36 +19,32 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=4Hn2-fwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/leoxiang66
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yunshu86/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Technical University of Munich
+    url: https://www.tum.de/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. Informatics
+      institution: Technical University of Munich
+      year: 2021
+    - course: B.Sc. Informatics
+      institution: Technical University of Munich
+      year: 2018
 superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
 email: ""
 ---
+Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. His research interests machine learning, deep learning, natural language processing and conversational AI. 
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
