@@ -8,7 +8,7 @@ authors:
 tags:
   - nlp;deeplearning
 categories:
-  - paper_reading;
+  - paper-reading
 image:
   filename: featured
   focal_point: Smart
