@@ -29,7 +29,7 @@ content:
       tag: '*'
     - name: QA
       tag: Question Answering
-    - name: ConvAI
+    - name: Dialogue
       tag: Conversational AI
     # - name: Other
     #   tag: Demo
