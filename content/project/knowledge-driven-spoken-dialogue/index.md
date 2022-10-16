@@ -1,6 +1,8 @@
 ---
 title: Knowledge-driven Spoken Dialogue
 date: 2022-10-16T13:10:22.369Z
+summary: A﻿ dialogue system that can conduct a conversation using information
+  from the provided knowledge graph.
 draft: false
 featured: false
 tags:
@@ -12,7 +14,7 @@ links:
     icon_pack: fab
     icon: github
 image:
-  filename: https://camo.githubusercontent.com/823374d2d9f308d99e05efe110481bf1f80cbd3374fa4d04231a79c82bab91aa/68747470733a2f2f696d672e6b6f6f6b6170702e636e2f6173736574732f323032322d30382f4d4e37723049506754683130733164752e706e67
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
