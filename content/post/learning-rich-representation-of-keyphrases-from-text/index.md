@@ -1,6 +1,7 @@
 ---
-title: Learning Rich Representation of Keyphrases from Text
+title: "Paper Read: Learning Rich Representation of Keyphrases from Text"
 date: 2022-10-16T12:08:22.013Z
+summary: R﻿eading paper "Learning Rich Representation of Keyphrases from Text".
 draft: false
 featured: false
 authors:
