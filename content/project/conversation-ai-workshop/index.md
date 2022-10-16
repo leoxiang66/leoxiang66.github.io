@@ -1,5 +1,5 @@
 ---
-title: Conversation AI Workshop
+title: Conversational AI Workshop
 date: 2022-7-16T13:22:36.522Z
 summary: A﻿ Uni project at TUM.
 draft: false
