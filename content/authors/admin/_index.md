@@ -4,19 +4,14 @@ role: M.Sc. Informatics
 avatar_filename: avatar.jpeg
 bio: Keep going and never give up!
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - machine learning
+  - deep learning
+  - natural language processing
+  - conversational AI
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=4Hn2-fwAAAAJ&hl=en
@@ -43,7 +38,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. His research interests machine learning, deep learning, natural language processing and conversational AI. 
+Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. His research interests include machine learning, deep learning, natural language processing and conversational AI. 
 
 
 
