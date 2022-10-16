@@ -28,7 +28,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-7-16T13:47:23.944Z
+date: 2021-07-16T13:47:23.944Z
 
 
 # url_pdf: ''
