@@ -21,6 +21,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yunshu86/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: instagram
+    link: https://www.instagram.com/leoxiang66/
 organizations:
   - name: Technical University of Munich
     url: https://www.tum.de/
