@@ -6,7 +6,7 @@ draft: false
 featured: false
 external_link: https://huggingface.co/spaces/Adapting/country-air-quality-ranking
 image:
-  filename: featured
+  filename: 屏幕快照-2022-10-30-下午10.11.04.png
   focal_point: Smart
   preview_only: false
 ---
