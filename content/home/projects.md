@@ -31,8 +31,8 @@ content:
       tag: Question Answering
     - name: Dialogue
       tag: Dialogue
-    # - name: Other
-    #   tag: Demo
+    - name: Software
+      tag: Software 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
