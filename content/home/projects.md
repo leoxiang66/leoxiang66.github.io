@@ -27,12 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: QA
+    - name: Question Answering
       tag: Question Answering
     - name: Dialogue
       tag: Dialogue
     - name: Software
       tag: Software 
+    - name: Machine Learnig
+      tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
