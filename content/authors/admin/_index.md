@@ -23,6 +23,11 @@ social:
     link: https://www.linkedin.com/in/yunshu86/
   - display:
       header: false
+    link: https://twitter.com/leoxiang666
+    icon_pack: fab
+    icon: twitter
+  - display:
+      header: false
     icon_pack: fab
     icon: instagram
     link: https://www.instagram.com/leoxiang66/
