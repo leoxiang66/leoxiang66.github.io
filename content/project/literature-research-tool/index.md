@@ -1,0 +1,24 @@
+---
+title: Literature Research Tool
+date: 2022-10-31T05:56:30.266Z
+summary: |-
+  T﻿he workflow of this tool (LRT):
+
+  1. user specify hyperparameters such as `maximum number of papers to query`
+  2. u﻿ser enters query
+  3. papers on different platforms are fetched using the query
+  4. L﻿RT does clustering on the papers
+  5. L﻿RT generates keywords for each cluster
+draft: false
+featured: false
+tags:
+  - Machine Learning
+links:
+  - url: https://huggingface.co/spaces/Adapting/literature-research-tool
+    name: App
+    icon_pack: null
+image:
+  filename: featured.png
+  focal_point: Smart
+  preview_only: false
+---
