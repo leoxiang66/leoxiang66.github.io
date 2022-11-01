@@ -6,7 +6,10 @@ draft: false
 featured: false
 tags:
   - Software
-external_link: https://huggingface.co/spaces/Adapting/country-air-quality-ranking
+external_link: ""
+links:
+  - url: https://huggingface.co/spaces/Adapting/country-air-quality-ranking
+    name: App
 image:
   filename: featured.png
   focal_point: Smart
