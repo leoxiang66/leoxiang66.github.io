@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: SAP
+    company: SAP SE
     company_url: ''
     company_logo: sap
     location: Germany
