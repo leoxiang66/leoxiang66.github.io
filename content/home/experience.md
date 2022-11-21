@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Internship
+  - title: Research Intern
     company: SAP
     company_url: ''
-    company_logo: org-gc
+    company_logo: sap
     location: Germany
     date_start: '2022-11-15'
     date_end: ''
