@@ -26,8 +26,8 @@ experience:
     company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Germany
+    date_start: '2022-11-15'
     date_end: ''
     description: |2-
         Responsibilities include:
