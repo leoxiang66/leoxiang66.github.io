@@ -30,12 +30,8 @@ experience:
     date_start: '2022-11-15'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Advisor: Anum Afzal
         
-        * Model Design
-        * Model Training
-        * Model Evaluation
-
 #  - title: Professor of Semiconductor Physics
 #    company: University X
 #    company_url: ''
