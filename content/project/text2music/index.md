@@ -6,6 +6,8 @@ summary: Text2Music is a virtual composer that creates style-specific music
   based on user-defined prompts.
 draft: false
 featured: false
+tags:
+  - Multimodal
 external_link: https://nlp-guild.github.io/text2music/
 links:
   - url: https://github.com/NLP-Guild/text2music
