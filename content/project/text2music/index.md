@@ -14,6 +14,8 @@ links:
     name: GitHub
     icon_pack: fab
     icon: github
+  - url: https://nlp-guild.github.io/text2music/
+    name: Website
 image:
   filename: featured.png
   focal_point: Smart
