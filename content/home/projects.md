@@ -35,6 +35,8 @@ content:
       tag: Software 
     - name: Machine Learnig
       tag: Machine Learning
+    - name: Multimodal
+      tag: Multimodal
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
