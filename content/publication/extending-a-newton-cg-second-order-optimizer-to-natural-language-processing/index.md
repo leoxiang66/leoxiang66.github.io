@@ -42,7 +42,7 @@ date: 2021-09-16T13:58:21.624Z
 
 
 
-# url_pdf: ''
+url_pdf: 'https://mediatum.ub.tum.de/doc/1633373/1633373.pdf'
 url_code: 'https://github.com/leoxiang66/Bachelor-thesis---Extension-of-a-second-order-optimizer-to-NLP'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
