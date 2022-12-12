@@ -31,7 +31,7 @@ image:
 date: 2021-07-16T13:47:23.944Z
 
 
-# url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/9543103'
 url_code: 'https://github.com/leoxiang66/The-Detection-of-Hela-Cells-in-Brightfield-Images'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
