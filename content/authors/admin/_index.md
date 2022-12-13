@@ -8,6 +8,7 @@ interests:
   - Deep Learning
   - Natural Language Processing
   - Conversational AI
+  - Multimodal AI
 social:
   - icon: envelope
     icon_pack: fas
@@ -48,8 +49,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. His research interests include machine learning, deep learning, natural language processing and conversational AI. 
-
-
+Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. He is the organization founder of [NLP Guild](https://github.com/NLP-Guild) and project leader of [Text2Music](https://nlp-guild.github.io/text2music/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
