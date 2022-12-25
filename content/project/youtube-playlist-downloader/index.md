@@ -6,9 +6,9 @@ draft: false
 featured: false
 tags:
   - Software
-external_link: https://huggingface.co/spaces/Adapting/YouTube-Playlist-Downloader
+external_link: https://huggingface.co/spaces/Adapting/Tube-Playlist-Downloader
 links:
-  - url: https://huggingface.co/spaces/Adapting/YouTube-Playlist-Downloader
+  - url: https://huggingface.co/spaces/Adapting/Tube-Playlist-Downloader
     name: App
 image:
   filename: featured.png
