@@ -6,10 +6,10 @@ draft: false
 featured: false
 tags:
   - Software
-external_link: https://huggingface.co/spaces/Adapting/Tube-Playlist-Downloader
+external_link: https://hub.docker.com/repository/docker/adapting/ytdownloader
 links:
-  - url: https://huggingface.co/spaces/Adapting/Tube-Playlist-Downloader
-    name: App
+  - url: https://hub.docker.com/repository/docker/adapting/ytdownloader
+    name: Docker Image
 image:
   filename: featured.png
   focal_point: Smart
