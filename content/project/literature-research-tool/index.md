@@ -10,6 +10,8 @@ links:
   - url: https://huggingface.co/spaces/Adapting/literature-research-tool
     name: App
     icon_pack: null
+  - url: https://hub.docker.com/repository/docker/adapting/lrt/general
+    name: Docker
 image:
   filename: featured.png
   focal_point: Smart
