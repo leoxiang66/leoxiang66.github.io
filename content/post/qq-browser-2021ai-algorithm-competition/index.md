@@ -1,5 +1,5 @@
 ---
-title: QQ BROWSER 2021AI Algorithm Competition
+title: QQ BROWSER 2021 AI Algorithm Competition
 date: 2021-10-01T02:49:11.104Z
 draft: false
 featured: false
