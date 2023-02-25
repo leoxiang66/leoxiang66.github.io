@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - award
+      - post
     tag: ''
     category: ''
     publication_type: ''
