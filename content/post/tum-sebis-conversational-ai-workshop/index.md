@@ -1,6 +1,6 @@
 ---
 title: TUM SEBIS Conversational AI Workshop
-date: 2023-02-25T04:00:00.316Z
+date: 2022-07-01T03:00:00.316Z
 draft: false
 featured: false
 image:
