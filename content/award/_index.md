@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Awards
 cms_exclude: true
 
 # View.
