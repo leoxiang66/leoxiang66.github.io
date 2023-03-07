@@ -3,7 +3,7 @@ title: " Extending a Newton-CG Second-order Optimizer to Natural Language Proces
 publication_types:
   - "7"
 authors:
-  - admin
+  - Tao Xiang
 abstract: "While Convolutional Neural Networks (CNNs) are a prominent class of
   machine learning models that are mainly applied to analyze visual imagery,
   Recurrent Neural Networks (RNNs) and the cutting-edge Attention Networks,
@@ -30,6 +30,7 @@ abstract: "While Convolutional Neural Networks (CNNs) are a prominent class of
   model, the performance of Newton-CG is more stable and the accuracy is
   higher."
 draft: false
+url_pdf: https://mediatum.ub.tum.de/doc/1633373/1633373.pdf
 featured: true
 tags:
   - NLP
@@ -38,17 +39,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-09-16T13:58:21.624Z
-
-
-
-
-url_pdf: 'https://mediatum.ub.tum.de/doc/1633373/1633373.pdf'
-url_code: 'https://github.com/leoxiang66/Bachelor-thesis---Extension-of-a-second-order-optimizer-to-NLP'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_video: 'https://youtube.com'
+url_code: https://github.com/leoxiang66/Bachelor-thesis---Extension-of-a-second-order-optimizer-to-NLP
 ---
----
+
