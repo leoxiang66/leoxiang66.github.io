@@ -1,5 +1,5 @@
 ---
-title: "Submit PARL: A Dialog System Framework with Prompts as Actions for
+title: "PARL: A Dialog System Framework with Prompts as Actions for
   Reinforcement Learning"
 publication_types:
   - "0"
