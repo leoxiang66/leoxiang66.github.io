@@ -29,7 +29,7 @@ experience:
     location: Germany
     date_start: '2023-03-13'
     date_end: ''
-    description: '|2-Advisor: Kathrin Sessler |2-Supervisor: Enkelejda Kasneci'
+    description: |2- Advisor: Kathrin Sessler |2- Supervisor: Enkelejda Kasneci
         
   - title: Research Intern
     company: SAP SE
