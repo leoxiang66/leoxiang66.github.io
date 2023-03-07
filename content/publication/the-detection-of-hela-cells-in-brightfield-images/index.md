@@ -3,9 +3,8 @@ title: The Detection of Hela Cells in Brightfield Images
 publication_types:
   - "1"
 authors:
-  - admin
-author_notes:
   - Hao Peng; Tao Xiang; Zhehui Huang; Chenye Tang
+author_notes: []
 doi: 10.1109/CSAIEE54046.2021.9543103
 publication: 2021 IEEE International Conference on Computer Science, Artificial
   Intelligence and Electronic Engineering (CSAIEE)
