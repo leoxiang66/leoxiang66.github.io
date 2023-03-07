@@ -29,9 +29,8 @@ experience:
     location: Germany
     date_start: '2023-03-13'
     date_end: ''
-    description: |- 
-        Advisor: Kathrin Sessler 
-        Supervisor: Enkelejda Kasneci
+    description: 'Advisor: Kathrin Sessler； Supervisor: Enkelejda Kasneci'
+        
         
   - title: Research Intern
     company: SAP SE
@@ -40,9 +39,8 @@ experience:
     location: Germany
     date_start: '2022-11-15'
     date_end: ''
-    description: |-
-        Advisor: Anum Afzal 
-        Supervisor: Florian Matthes
+    description: 'Advisor: Anum Afzal； Supervisor: Florian Matthes'
+        
         
         
         
