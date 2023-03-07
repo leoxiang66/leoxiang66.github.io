@@ -33,6 +33,7 @@ experience:
         Advisor: Kathrin Sessler
         Supervisor: Enkelejda Kasneci
 
+experience:
   - title: Research Intern
     company: SAP SE
     company_url: 'https://www.sap.com/'
