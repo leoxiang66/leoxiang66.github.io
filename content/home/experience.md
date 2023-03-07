@@ -25,15 +25,14 @@ experience:
   - title: Research Assistant
     company: Technical University of Munich
     company_url: 'https://www.tum.de/en/'
-    company_logo: tum
+    # company_logo: tum
     location: Germany
     date_start: '2023-03-113'
     date_end: ''
-    description: |2-
-        Advisor: Kathrin Sessler
-        Supervisor: Enkelejda Kasneci
+    description: 
+        |2- Advisor: Kathrin Sessler
+        |2- Supervisor: Enkelejda Kasneci
 
-experience:
   - title: Research Intern
     company: SAP SE
     company_url: 'https://www.sap.com/'
@@ -41,9 +40,9 @@ experience:
     location: Germany
     date_start: '2022-11-15'
     date_end: ''
-    description: |2-
-        Advisor: Anum Afzal
-        Supervisor: Florian Matthes
+    description: 
+        |2- Advisor: Anum Afzal
+        |2- Supervisor: Florian Matthes
         
 #  - title: Professor of Semiconductor Physics
 #    company: University X
