@@ -22,15 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: Technical University of Munich
+    company_url: 'https://www.tum.de/en/'
+    company_logo: tum
+    location: Germany
+    date_start: '2023-03-113'
+    date_end: ''
+    description: |2-
+        Advisor: Kathrin Sessler
+        Supervisor: Enkelejda Kasneci
+
   - title: Research Intern
     company: SAP SE
-    company_url: ''
+    company_url: 'https://www.sap.com/'
     company_logo: sap
     location: Germany
     date_start: '2022-11-15'
     date_end: ''
     description: |2-
         Advisor: Anum Afzal
+        Supervisor: Florian Matthes
         
 #  - title: Professor of Semiconductor Physics
 #    company: University X
