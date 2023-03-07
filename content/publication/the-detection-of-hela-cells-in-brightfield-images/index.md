@@ -4,6 +4,9 @@ publication_types:
   - "1"
 authors:
   - admin
+author_notes:
+  - Hao Peng; Tao Xiang; Zhehui Huang; Chenye Tang
+doi: 10.1109/CSAIEE54046.2021.9543103
 publication: 2021 IEEE International Conference on Computer Science, Artificial
   Intelligence and Electronic Engineering (CSAIEE)
 publication_short: CSAIEE
@@ -21,6 +24,7 @@ abstract: Among all the rapidly developing pathological diagnosis methods,
   distinguished and labelled, we utilize different filters as pre-process labels
   and carry on data …
 draft: false
+url_pdf: https://ieeexplore.ieee.org/document/9543103
 featured: true
 tags:
   - CV
@@ -29,14 +33,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-07-16T13:47:23.944Z
-
-
-url_pdf: 'https://ieeexplore.ieee.org/document/9543103'
-url_code: 'https://github.com/leoxiang66/The-Detection-of-Hela-Cells-in-Brightfield-Images'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_video: 'https://youtube.com'
+url_code: https://github.com/leoxiang66/The-Detection-of-Hela-Cells-in-Brightfield-Images
 ---
