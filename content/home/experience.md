@@ -30,8 +30,8 @@ experience:
     date_start: '2023-03-13'
     date_end: ''
     description: |2- 
-      Advisor: Kathrin Sessler 
-      Supervisor: Enkelejda Kasneci
+        Advisor: Kathrin Sessler 
+        Supervisor: Enkelejda Kasneci
         
   - title: Research Intern
     company: SAP SE
@@ -41,8 +41,8 @@ experience:
     date_start: '2022-11-15'
     date_end: ''
     description: |2-
-      Advisor: Anum Afzal 
-      Supervisor: Florian Matthes
+        Advisor: Anum Afzal 
+        Supervisor: Florian Matthes
         
         
         
