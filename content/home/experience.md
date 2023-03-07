@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Technical University of Munich
     company_url: 'https://www.tum.de/en/'
-    company_logo: tum
+    # company_logo: tum
     location: Germany
     date_start: '2023-03-13'
     date_end: ''
