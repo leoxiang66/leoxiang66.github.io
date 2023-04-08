@@ -48,7 +48,7 @@ content:
       name: Discord
       link: 'https://discordapp.com/users/779341710420869140'
     - icon: telegram
-      ocpjm_pack: fab
+      icon_pack: fab
       name: Telegram
       link: 'https://t.me/leoheung'
     # - icon: video
