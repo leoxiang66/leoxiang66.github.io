@@ -30,4 +30,5 @@ image:
   preview_only: false
 date: 2023-03-07T21:26:00.087Z
 url_code: https://github.com/TUM-NLPLab-2022/PARL-A-Dialog-System-Framework-with-Prompts-as-Actions-for-Reinforcement-Learning
+url_pdf: https://flowus.cn/share/5c2f5068-5991-4c94-93dc-eea6a70c6bed
 ---
