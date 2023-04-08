@@ -1,22 +1,23 @@
 ---
-title: Conversational AI Workshop
+title: Toward Forever Memory Dialogue Systems
 date: 2022-7-16T13:22:36.522Z
-summary: A﻿ Uni project at TUM.
+summary: >+
+  We explore to achieve forever memory dialogue systems based on knowledge
+  graphs.
+
 draft: false
 featured: false
 tags:
-  - Conversational AI
-  - Dialogflow
-  - Question Answering
+  - Dialogue
 links:
-  - url: https://github.com/JohannesGetzner/conversational-ai-workshop-history-agent
+  - url: https://github.com/memomind/ForeverMemoryBot
     name: GitHub
     icon_pack: fab
     icon: github
-  - url: https://leoxiang66.github.io/ConvAI-history_agent-demo/
-    name: Demo
+  - url: https://t.me/forevermem_bot
+    name: Demo App
 image:
-  filename: featured.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
