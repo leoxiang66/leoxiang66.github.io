@@ -1,7 +1,11 @@
 ---
-title: Literature Research Tool
+title: TrendFlow
 date: 2022-10-31T05:56:30.266Z
-summary: A﻿ machine-learning-based tool that can analyze the literature.
+summary: TrendFlow is an advanced framework that uses deep learning techniques
+  to analyze research trends. This powerful framework offers a wide range of
+  analytical capabilities, including literature clustering, trend generation,
+  and trend summarization. With TrendFlow, you can gain insights into emerging
+  research topics and stay up-to-date on the latest advancements in your field.
 draft: false
 featured: false
 tags:
@@ -10,10 +14,12 @@ links:
   - url: https://huggingface.co/spaces/Adapting/literature-research-tool
     name: App
     icon_pack: null
-  - url: https://hub.docker.com/repository/docker/adapting/lrt/general
-    name: Docker
+  - url: https://github.com/leoxiang66/research-trends-analysis
+    name: GitHub
+    icon_pack: fab
+    icon: github
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
