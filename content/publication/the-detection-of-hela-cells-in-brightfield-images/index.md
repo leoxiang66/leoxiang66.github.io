@@ -23,7 +23,6 @@ abstract: Among all the rapidly developing pathological diagnosis methods,
   distinguished and labelled, we utilize different filters as pre-process labels
   and carry on data …
 draft: false
-url_pdf: https://ieeexplore.ieee.org/document/9543103
 featured: true
 tags:
   - CV
