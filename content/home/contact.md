@@ -46,7 +46,11 @@ content:
     - icon: discord
       icon_pack: fab
       name: Discord
-      link: 'https://discord.gg/mCjYK5cUP8'
+      link: 'https://discordapp.com/users/779341710420869140'
+    - icon: telegram
+      ocpjm_pack: fab
+      name: Telegram
+      link: 'https://t.me/leoheung'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
