@@ -49,6 +49,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. He is the project leader of [Text2Music](https://nlp-guild.github.io/text2music/).
+Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. He is the co-founder of [Memomind](http://memomind.cn/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
