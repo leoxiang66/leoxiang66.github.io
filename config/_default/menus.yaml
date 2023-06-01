@@ -20,7 +20,7 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Publications
-    url: '#publications'
+    url: 'https://orcid.org/0000-0001-6217-6560'
     weight: 50
   - name: Contact
     url: '#contact'
