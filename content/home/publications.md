@@ -37,5 +37,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Check out my publications on [ORCID](https://orcid.org/0000-0001-6217-6560).
 {{% /callout %}}
