@@ -37,6 +37,9 @@ organizations:
     url: https://www.tum.de/
 education:
   courses:
+    - course: Ph.D. in NLP
+      institution: Singapore University of Technology and Design
+      year: 2023
     - course: M.Sc. Informatics
       institution: Technical University of Munich
       year: 2021
@@ -49,6 +52,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Tao Xiang (Leo) is a M.Sc. Informatics student at Technical University of Munich (TUM). Leo earned his bachelor's degree also at TUM. He is the co-founder of [Memomind](http://memomind.cn/).
+Tao Xiang (Leon) boasts an impressive educational background, having earned both his Bachelor's and Master's degrees in Computer Science from the Technical University of Munich (TUM), which secured a commendable QS ranking of 37 in 2023. Following his academic achievements at TUM, Leon is currently diving deeper into research as a Ph.D. candidate at the Singapore University of Technology and Design (SUTD), specializing in Natural Language Processing (NLP) and Artificial Intelligence (AI).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Demonstrating his entrepreneurial acumen, Leon co-founded [Memomind](http://memomind.cn/), an AI startup that harnesses cutting-edge technology to bring forth innovative solutions.
+
+Leon's linguistic skills are equally impressive, with proficiency in German, English, Cantonese, and Mandarin. This linguistic versatility undoubtedly sets him apart in the global tech community. His exceptional talents have not gone unnoticed, as the Hong Kong government has honored him with the "Top-Talent" designation, further highlighting not only his technical capabilities but also his significant contributions to the broader community.
