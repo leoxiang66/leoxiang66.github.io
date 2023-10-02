@@ -52,7 +52,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Tao Xiang (Leon) boasts an impressive educational background, having earned both his Bachelor's and Master's degrees in Computer Science from the Technical University of Munich (TUM), which secured a commendable QS ranking of 37 in 2023. Following his academic achievements at TUM, Leon is currently diving deeper into research as a Ph.D. candidate at the Singapore University of Technology and Design (SUTD), specializing in Natural Language Processing (NLP) and Artificial Intelligence (AI).
+Tao Xiang (Leon) boasts an impressive educational background, having earned both his Bachelor's and Master's degrees in Computer Science from the Technical University of Munich (TUM), which secured a commendable QS ranking of 37 in 2024. Following his academic achievements at TUM, Leon is currently diving deeper into research as a Ph.D. candidate at the Singapore University of Technology and Design (SUTD), specializing in Natural Language Processing (NLP) and Artificial Intelligence (AI).
 
 Demonstrating his entrepreneurial acumen, Leon co-founded [Memomind](http://memomind.cn/), an AI startup that harnesses cutting-edge technology to bring forth innovative solutions.
 
